@@ -1,4 +1,5 @@
 # powerbi-project:Stroke Prediction Dataset Analysis
+**video:https://drive.google.com/file/d/1vrBoyGnP0-lX97EPXPJ5lRxGwLLbAMTy/view?usp=sharing**
 
 I recently explored a healthcare dataset using Power BI that focuses on stroke prediction. The dataset includes variables like age, gender, hypertension, heart disease, BMI, smoking status, and more.
 
